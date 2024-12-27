@@ -92,3 +92,5 @@ f5d4a42 (HEAD -> main, origin/main) Update a.txt - you're up to date with origin
 
 when you push your local branch and it turns out that you don't have it on the origin first possibility is to run "git push -u origin your_branch_name"
 the other possibility is "git config --global --add --bool push.autoSetupRemote true"
+
+rebase will take your commits and take into another branch without creating the merge commit => your history will look cleaner
