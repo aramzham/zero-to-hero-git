@@ -94,3 +94,5 @@ when you push your local branch and it turns out that you don't have it on the o
 the other possibility is "git config --global --add --bool push.autoSetupRemote true"
 
 rebase will take your commits and take into another branch without creating the merge commit => your history will look cleaner
+
+squash and merge strategy will take your commits and pack it into a single one => cleaner history
