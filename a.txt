@@ -1,1 +1,2 @@
 contents of a.txt !!!
+new line of text
