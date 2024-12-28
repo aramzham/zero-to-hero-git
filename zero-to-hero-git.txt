@@ -102,3 +102,8 @@ clone vs pull - clone is the initial pulldown of the repo, once you have it you 
 git config --global alias.co "checkout" - this means that you can do "git co main" = "git checkout main"
 
 git config --global alias.copm '!git checkout main && git pull' - go to main and pull it with "git copm"
+
+some useful productivity tips from Scott Sauber
+https://github.com/scottsauber/dotfiles/blob/main/.bashrc
+put them all in .bashrc file at C:\Users\<username>
+if you encounter some errors regarding refs type "git remote set-head origin main"
