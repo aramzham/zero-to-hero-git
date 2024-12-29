@@ -107,3 +107,7 @@ some useful productivity tips from Scott Sauber
 https://github.com/scottsauber/dotfiles/blob/main/.bashrc
 put them all in .bashrc file at C:\Users\<username>
 if you encounter some errors regarding refs type "git remote set-head origin main"
+
+https://dangitgit.com/
+
+when resolving a merge conflict think from remote perspective, current is the current situation on remote, the incoming is the changes that are going to go on remote
