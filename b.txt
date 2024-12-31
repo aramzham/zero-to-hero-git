@@ -1,1 +1,2 @@
 contents of b
+with a new line
