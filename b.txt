@@ -1,1 +1,2 @@
-contents of 
+contents of b
+with a new line
